@@ -50,6 +50,13 @@ ProyectoFinalPruebasS/
 - Google Chrome
 - ChromeDriver
 
+## 🎥 Video explicativo.
+
+Video de explicaion de pruebas con Selenium, ejecucion de las mismas y qué hace cada parte del código:
+
+🔗 [Ver video en Google Drive](https://drive.google.com/file/d/1UWqK1LJW-3ew8bP6_HNX3NMfGNwieWdM/view?usp=sharing)
+
+
 ## Lo que aprendí con este proyecto
 
 Este proyecto aprendí y entendí un poco mas cómo funciona la automatización de pruebas con Python.  
