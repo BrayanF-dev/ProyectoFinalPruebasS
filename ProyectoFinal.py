@@ -6,7 +6,7 @@ from selenium.webdriver.chrome.options import Options
 import shutil
 import time
 import os
-import HtmlTestRunner
+import HtmlTestRunner # type: ignore
 
 DOWNLOAD_DIR = os.path.join(os.path.expanduser("~"), "Downloads")
 DOWNLOAD_FILE = os.path.join(DOWNLOAD_DIR, "sampleFile.jpeg")
